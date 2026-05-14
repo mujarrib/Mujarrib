@@ -8,7 +8,7 @@ title: Mujarrib
 
 ---
 
-My work sits at the intersection of operations, data, and product — scaling revenue, untangling platform decisions, building the infrastructure that makes a small team punch above its weight.
+My work sits at the intersection of operations, data, and product — scaling, untangling platform decisions, building the infrastructure that makes a small team punch above its weight.
 
 I'm from Veneto. That's not incidental.
 
