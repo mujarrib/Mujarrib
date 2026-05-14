@@ -1,7 +1,8 @@
 ---
-title: "Keanu Reeves"
+title: Keanu Reeves
 date: 2026-05-14
-tags: []
+tags:
+  - actor
 status: seedling
 ---
 
