@@ -20,8 +20,8 @@ I remember that movie "insomnia" (2002), where he plays a disgusting killer for 
 ## Sources
 
 - https://youtube.com/watch?v=ELm7C85v6YY [Embed]
-- 
+- https://boards.4chan.org/x/thread/42335478/darknessfilms-as-rituals
 
 ## Related
 
-- 
+- []
