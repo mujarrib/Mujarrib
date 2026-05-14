@@ -1,3 +1,269 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ─── FONT ────────────────────────────────────────────────────────────────────
+
+@font-face {
+  font-family: "RunicElder";
+  src: url("./static/fonts/RunicElder2.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+// ─── HEADINGS: runic + sottotitolo leggibile ─────────────────────────────────
+
+h1, h2, h3, h4, h5, h6,
+.article-title-decorative,
+#quartz-body .page-title a {
+  font-family: "RunicElder", monospace !important;
+  letter-spacing: 0.05em;
+  line-height: 1.2;
+}
+
+// blocco heading: runic sopra, readable sotto
+.heading-runic {
+  display: block;
+  font-family: "RunicElder", monospace;
+}
+
+.heading-readable {
+  display: block;
+  font-family: var(--bodyFont);
+  font-size: 0.6em;
+  color: var(--gray);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 0.1em;
+  font-weight: 400;
+}
+
+// ─── ARTICLE TITLE (h1 via componente) ───────────────────────────────────────
+
+.article-title-decorative::after {
+  content: "█";
+  color: var(--secondary);
+  animation: blink 1.1s step-end infinite;
+  margin-left: 0.25em;
+  font-size: 0.75em;
+  vertical-align: middle;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
+}
+
+.article-title-readable {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.8rem;
+  color: var(--gray);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0.15rem 0 0 0;
+}
+
+// ─── LINK ────────────────────────────────────────────────────────────────────
+
+a {
+  color: var(--secondary) !important;
+  text-decoration: none;
+  transition: color 0.15s ease, opacity 0.15s ease;
+
+  &:hover {
+    opacity: 0.75;
+    text-decoration: none;
+  }
+
+  &.internal {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(57, 255, 20, 0.3);
+    border-radius: 0;
+    padding: 0;
+
+    &:hover {
+      border-bottom-color: var(--secondary);
+    }
+  }
+}
+
+// ─── SEPARATORI ──────────────────────────────────────────────────────────────
+
+hr {
+  border: none;
+  border-top: 1px solid var(--lightgray);
+  margin: 2.5rem 0;
+  position: relative;
+
+  &::after {
+    content: "◈";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--light);
+    padding: 0 0.6rem;
+    color: var(--secondary);
+    font-size: 0.7rem;
+  }
+}
+
+// ─── BLOCKQUOTE ──────────────────────────────────────────────────────────────
+
+blockquote {
+  border-left: 2px solid var(--secondary);
+  padding: 0.5rem 1rem;
+  margin: 1.5rem 0;
+  color: var(--darkgray);
+  background: rgba(57, 255, 20, 0.03);
+  border-radius: 0 4px 4px 0;
+}
+
+// ─── CODE ────────────────────────────────────────────────────────────────────
+
+code {
+  background: var(--lightgray);
+  border: 1px solid rgba(57, 255, 20, 0.15);
+  border-radius: 2px;
+  font-size: 0.85em;
+  color: var(--secondary);
+  padding: 0.1rem 0.3rem;
+}
+
+pre {
+  border: 1px solid var(--lightgray);
+  border-left: 2px solid var(--secondary);
+  border-radius: 0 4px 4px 0;
+
+  & > code {
+    color: var(--darkgray);
+    background: none;
+    border: none;
+  }
+}
+
+// ─── TABELLE ─────────────────────────────────────────────────────────────────
+
+th {
+  color: var(--secondary);
+  border-bottom: 1px solid var(--secondary);
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 0.08em;
+}
+
+tr {
+  border-bottom: 1px solid var(--lightgray);
+
+  &:hover {
+    background: rgba(57, 255, 20, 0.03);
+  }
+}
+
+// ─── SELECTION ───────────────────────────────────────────────────────────────
+
+::selection {
+  background: rgba(57, 255, 20, 0.2);
+  color: var(--dark);
+}
+
+// ─── SCROLLBAR ───────────────────────────────────────────────────────────────
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: var(--light); }
+::-webkit-scrollbar-thumb { background: var(--lightgray); border-radius: 0; }
+::-webkit-scrollbar-thumb:hover { background: var(--secondary); }
+
+// ─── RUNIC: selettori specifici ───────────────────────────────────────────────
+
+.breadcrumb-container {
+    font-family: 'RunicElder';
+}
+
+.folder-container a {
+font-family: "RunicElder", monospace!important;
+}
+
+.folder-outer, .content-meta {
+  font-family: "RunicElder", monospace;
+}
+
+.folder-container ul li a,
+.folder-container ul li button span,
+.breadcrumb-element p,
+a.internal.tag-link,
+a.external {
+  font-family: "RunicElder", monospace;
+}
+
+// blocco verticale (sidebar)
+.folder-container ul li a,
+.folder-container ul li button span {
+  font-family: "RunicElder", monospace;
+  display: flex;
+  flex-direction: column;
+  line-height: 1 !important;
+}
+
+// inline (breadcrumb, tag, external): runic + readable affiancati
+.breadcrumb-element p,
+a.internal.tag-link,
+a.external {
+  font-family: "RunicElder", monospace;
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: bottom;
+  line-height: 1;
+}
+
+.nav-runic {
+  display: block;
+  font-family: "RunicElder", monospace;
+  line-height: 1.3;
+}
+
+.nav-readable {
+  display: block;
+  font-family: var(--bodyFont);
+  font-size: 0.55rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0.25;
+  line-height: 1;
+  margin-top: 0.1rem;
+}
+
+// ─── SIDEBAR / EXPLORER ──────────────────────────────────────────────────────
+
+.sidebar.left {
+  border-right: 1px solid var(--lightgray);
+}
+
+.page-title {
+  font-family: "RunicElder", monospace !important;
+  letter-spacing: 0.06em;
+  font-size: 1.4rem !important;
+}
+
+// ─── FOOTER ──────────────────────────────────────────────────────────────────
+
+footer {
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.8rem;
+  color: var(--gray);
+  padding-top: 1rem;
+}
+
+// ─── GRAPH ───────────────────────────────────────────────────────────────────
+
+.graph > .graph-outer > #graph-container {
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+}
+
+// ─── PROGRESS BAR ────────────────────────────────────────────────────────────
+
+.navigation-progress {
+  height: 2px;
+  background: var(--secondary);
+  box-shadow: 0 0 6px var(--secondary);
+}
