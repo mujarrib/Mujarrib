@@ -1,4 +1,5 @@
 .obsidian/
+content/.obsidian/
 .claude/
 .env
 node_modules
