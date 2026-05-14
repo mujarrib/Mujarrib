@@ -12,7 +12,8 @@ status: seedling
 
 ## Body
 
-He was part of the hollywod cabal, and the guilt of his broken spirit finally got him. His behavior wasn't "normal", many times on stage, during his "improv" violent skits you could see sparks of that inner unhinged persona specially on his later years.  
+He was part of the hollywod cabal, and the guilt of his broken spirit finally got him. His behavior wasn't "normal", many times on stage, during his "improv" violent skits you could see sparks of that inner unhinged persona specially on his later years. 
+
 I remember that movie "insomnia" (2002), where he plays a disgusting killer for the first time. Obviously, it was very weird and shocking, to see Robin Williams playing that role, and of course, he had to play that role in the most creepy and extreme manner to accentuate that dichotomy in the audience used to see Williams as a lovable role character. 
 
 Even in those days one would wonder "why?" Why do they have to use him for that?, Why does he have to agree to do that? Today you have a better idea of "why", but back then it was hard to "see" what they were doing, it was probably that role wich affected him, (along with others, like that tragic movie "Patch Adams"), he was used to traumatize audiences, to play with people at a spiritual level. And he was a sensitive conduit and medium as that, he knew, he lived those roles and "plays". 
