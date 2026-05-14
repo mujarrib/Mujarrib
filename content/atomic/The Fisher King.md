@@ -29,4 +29,4 @@ The same year he also makes that creepy shit on picrel, "[[Death to smoochy]]" w
 
 ## Related
 
-- [[Robin williams was evil]] 
+- [[Robin Williams]] 

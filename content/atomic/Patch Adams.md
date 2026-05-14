@@ -26,4 +26,4 @@ Adams later clarified that he did not hate Williams,[[16]](https://en.wikipedia.
 
 ## Related
 
-- [[Robin williams was evil]]
+- [[Robin Williams]]
