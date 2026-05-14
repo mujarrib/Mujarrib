@@ -8,9 +8,7 @@ tags:
 status: seedling
 ---
 
-# Untitled
-
-One sentence — the core idea.
+# Robin Williams was evil
 
 ## Body
 
