@@ -1,17 +1,22 @@
 ---
-title: 
-date: 
+title: "{{title}}"
+date: {{date:YYYY-MM-DD}}
 tags: []
+status: seedling
 ---
 
-# Titolo
+# {{title}}
 
-Idea centrale in una frase.
+One sentence — the core idea.
 
-## Sviluppo
+## Body
 
 
 
-## Connessioni
+## Sources
+
+- 
+
+## Related
 
 - 
