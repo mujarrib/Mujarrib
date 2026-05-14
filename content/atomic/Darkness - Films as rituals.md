@@ -8,7 +8,7 @@ tags:
 status: seedling
 ---
 
-# Darkness/Films as rituals
+# Darkness: Films as rituals
 
 There's going to be a wave of films that are essentially dark rituals on the audience.
 
