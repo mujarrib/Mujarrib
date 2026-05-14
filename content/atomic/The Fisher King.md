@@ -17,7 +17,7 @@ Jack Lucas, a [narcissistic](https://en.wikipedia.org/wiki/Narcissistic_personal
 
 ## Sources
 
-- 
+- https://en.wikipedia.org/wiki/The_Fisher_King
 
 ## Related
 
