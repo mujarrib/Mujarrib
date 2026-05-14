@@ -1,7 +1,10 @@
 ---
 title: Robin williams was evil
 date: 2026-05-14
-tags: []
+tags:
+  - conspiracy
+  - movie
+  - actor
 status: seedling
 ---
 
