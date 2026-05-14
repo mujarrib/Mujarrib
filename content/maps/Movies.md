@@ -7,7 +7,7 @@ status: seedling
 
 # Movies
 
-One sentence — the core idea.
+All the movies.
 
 ## Body
 
