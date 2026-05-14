@@ -10,8 +10,6 @@ title: Mujarrib
 
 My work sits at the intersection of operations, data, and product — scaling revenue, untangling platform decisions, building the infrastructure that makes a small team punch above its weight.
 
-Before this, I did the same at Officinalis, where I learned what it means to actually move numbers.
-
 I'm from Veneto. That's not incidental.
 
 ---
