@@ -3,6 +3,7 @@ title: Darkness/Films as rituals
 date: 2026-05-14
 tags:
   - film
+  - movie
 status: seedling
 ---
 
