@@ -8,7 +8,7 @@ title: Mujarrib
 
 ---
 
-I'm an Ecommerce Manager at [Carismatix](https://carismatix.it), an Italian B2C shop specializing in car detailing and automotive care, shipping across Europe. My work sits at the intersection of operations, data, and product — scaling revenue, untangling platform decisions, building the infrastructure that makes a small team punch above its weight.
+My work sits at the intersection of operations, data, and product — scaling revenue, untangling platform decisions, building the infrastructure that makes a small team punch above its weight.
 
 Before this, I did the same at Officinalis, where I learned what it means to actually move numbers.
 
