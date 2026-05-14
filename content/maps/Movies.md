@@ -7,7 +7,7 @@ status: seedling
 
 # Movies
 
-All the movies.
+All the movies worth watching
 
 ## Body
 
