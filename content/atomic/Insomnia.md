@@ -8,7 +8,7 @@ status: seedling
 
 # Insomnia
 
-One sentence — the core idea.
+### Dormer and Finch's Deaths Explained.
 
 ## Body
 
