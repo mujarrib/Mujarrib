@@ -8,7 +8,7 @@ status: seedling
 
 # Patch Adams
 
-One sentence — the core idea.
+In 1969, Hunter "Patch" Adams, after developing suicidal thoughts, admits himself to a mental institution.
 
 ## Body
 
