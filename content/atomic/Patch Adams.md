@@ -1,7 +1,8 @@
 ---
-title: "Patch Adams"
+title: Patch Adams
 date: 2026-05-14
-tags: []
+tags:
+  - movie
 status: seedling
 ---
 
