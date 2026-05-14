@@ -1,7 +1,9 @@
 ---
-title: "The Fisher King"
+title: The Fisher King
 date: 2026-05-14
-tags: []
+tags:
+  - conspiracy
+  - movie
 status: seedling
 ---
 
