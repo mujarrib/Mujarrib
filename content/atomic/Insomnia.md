@@ -8,7 +8,7 @@ status: seedling
 
 # Insomnia
 
-One sentence ### Dormer and Finch's Deaths Explained.
+Dormer and Finch's Deaths Explained.
 
 ## Body
 
