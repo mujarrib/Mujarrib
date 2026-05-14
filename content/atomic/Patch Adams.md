@@ -22,7 +22,7 @@ Adams later clarified that he did not hate Williams,[[16]](https://en.wikipedia.
 
 ## Sources
 
-- 
+- https://en.wikipedia.org/wiki/Patch_Adams_(film)
 
 ## Related
 
