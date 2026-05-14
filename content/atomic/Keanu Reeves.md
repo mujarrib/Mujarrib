@@ -22,4 +22,4 @@ One sentence — the core idea.
 
 - [[The Watcher]]
 -  [[My Own Private Idaho]]
-- 
+- [[Films as rituals]]
