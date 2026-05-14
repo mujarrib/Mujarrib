@@ -33,4 +33,4 @@ He was probably a "warlock". He was also in the very esoteric movie [[The Fisher
 
 ## Related
 
-- [[Darkness - Films as rituals]]
+- [[Films as rituals]]

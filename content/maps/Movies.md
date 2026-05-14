@@ -22,4 +22,4 @@ All the movies worth watching
 
 ## Related
 
-- [[Darkness - Films as rituals]]
+- [[Films as rituals]]
