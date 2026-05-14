@@ -18,7 +18,7 @@ I remember that movie "[[Insomnia]]" (2002), where he plays a disgusting killer 
 
 Even in those days one would wonder "why?" Why do they have to use him for that?, Why does he have to agree to do that? Today you have a better idea of "why", but back then it was hard to "see" what they were doing, it was probably that role wich affected him, (along with others, like that tragic movie "Patch Adams"), he was used to traumatize audiences, to play with people at a spiritual level. And he was a sensitive conduit and medium as that, he knew, he lived those roles and "plays". 
 
-Same happened to Keanu Reeves, around those years he also played a brutal and extremely evil serial killer in a shitty movie that was promoted same as "insomnia" as a "novel experience", an actor always known to play heroes, doing a movie that would "shock you". Same happened with Jim Carrey when he did that disgusting "children movie" Lemony Snicker, when he plays a pedo abuser and child killer. 
+Same happened to Keanu Reeves, around those years he also played a brutal and extremely evil serial killer in a shitty movie that was promoted same as "[[Insomnia]]" as a "novel experience", an actor always known to play heroes, doing a movie that would "shock you". Same happened with Jim Carrey when he did that disgusting "children movie" Lemony Snicker, when he plays a pedo abuser and child killer. 
 
 All of these actors were spiritually broken at some point, for "some reason" you can absolutely tell when you look at them, they look empty like holding a terrible guilt or regret. 
 
