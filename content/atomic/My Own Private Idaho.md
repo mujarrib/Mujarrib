@@ -1,7 +1,8 @@
 ---
-title: "My Own Private Idaho"
+title: My Own Private Idaho
 date: 2026-05-14
-tags: []
+tags:
+  - movie
 status: seedling
 ---
 
