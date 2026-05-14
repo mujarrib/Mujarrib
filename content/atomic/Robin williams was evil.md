@@ -24,4 +24,4 @@ I remember that movie "insomnia" (2002), where he plays a disgusting killer for 
 
 ## Related
 
-- []
+- [[Darkness - Films as rituals]]
