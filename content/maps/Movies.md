@@ -1,7 +1,8 @@
 ---
-title: "Movies"
+title: Movies
 date: 2026-05-14
-tags: []
+tags:
+  - movie
 status: seedling
 ---
 
