@@ -21,7 +21,7 @@ One is planned to release in October.
 
 ## Sources
 
-- 
+- https://boards.4chan.org/x/thread/42335478/darknessfilms-as-rituals
 
 ## Related
 
