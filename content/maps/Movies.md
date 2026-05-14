@@ -13,7 +13,7 @@ All the movies worth watching
 
 [[The Fisher King]]
 [[Insomnia]]
-[[ps]]
+[[Patch Adams]]
 
 ## Sources
 
