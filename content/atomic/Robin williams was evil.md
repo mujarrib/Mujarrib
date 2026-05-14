@@ -19,7 +19,9 @@ Even in those days one would wonder "why?" Why do they have to use him for that?
 
 Same happened to Keanu Reeves, around those years he also played a brutal and extremely evil serial killer in a shitty movie that was promoted same as "insomnia" as a "novel experience", an actor always known to play heroes, doing a movie that would "shock you". Same happened with Jim Carrey when he did that disgusting "children movie" Lemony Snicker, when he plays a pedo abuser and child killer. 
 
-All of these actors were spiritually broken at some point, for "some reason" you can absolutely tell when you look at them, they look empty like holding a terrible guilt or regret. And I truly believe these particular "movies", are those "reasons". Many such cases, like Heath Ledger, in that "Broke back Mountain" movie, that was his particular humiliation ritual, he being a "method actor", had to PLAY that "role", and surely he did. He was never the same after that.
+All of these actors were spiritually broken at some point, for "some reason" you can absolutely tell when you look at them, they look empty like holding a terrible guilt or regret. 
+
+And I truly believe these particular "movies", are those "reasons". Many such cases, like Heath Ledger, in that "Broke back Mountain" movie, that was his particular humiliation ritual, he being a "method actor", had to PLAY that "role", and surely he did. He was never the same after that.
 
 ## Sources
 
