@@ -27,4 +27,3 @@ One is planned to release in October.
 - [[Robin Williams]]
 - [[Keanu Reeves]]
 - [[Jim Carrey]]
-- 
