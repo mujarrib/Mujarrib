@@ -11,7 +11,7 @@ status: evergreen
 
 # MAP: Hollywood Dark Rituals
 
-Mappa concettuale del cluster di note che esplorano il cinema come vettore di rituali collettivi, il meccanismo di iniziazione degli attori, e i pattern di consumo e collasso delle star hollywoodiane.
+Mappa concettuale del cluster di note che esplorano il cinema come vettore di rituali collettivi, il meccanismo di iniziazione degli attori, e i pattern di consumo dei media di massa e collasso delle star hollywoodiane.
 
 ---
 
