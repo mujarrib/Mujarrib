@@ -6,31 +6,31 @@ tags:
 status: seedling
 ---
 
-# Untitled 1
+# Una stanza dove non si invecchia
 
-A room where aging stops.
+Una stanza in cui il tempo si ferma.
 
-## Body
+## Corpo
 
-A room where aging stops. Once you step inside, aging stops, you never feel hungry, and you never get sick. In other words, you can live in perfect health forever. However, you cannot bring anything into the room, and the moment you step outside, aging begins again. If such a room were right in front of you, would you go inside?  
-  
-(Note)  
-  
-There is no communication between the inside and the outside. You cannot see what is happening inside from the outside, nor can you see what is happening outside from the inside.  
-  
-Only one person can enter the room at a time.  
-  
-If an elderly person enters, they become healthy while retaining their current physical form. They do not become younger.  
-  
-Upon exiting, the body returns to the same physical state it was in when entering the room.  
-  
-(If a sick person enters, their illness is cured. However, upon exiting, they return to their previous sick state. In other words, this room cannot be used to cure illness by repeatedly entering and exiting it.)  
-  
-(Even if you do strength training in this room, your body will return to its original state once you exit.)  
-  
-Your memories are not erased even if you enter and exit this room.  
-  
-This was translated from Japanese using Deepl.
+Una stanza in cui il tempo si ferma. Dal momento in cui entri, l'invecchiamento si blocca, non senti mai fame e non ti ammali mai. In altre parole, puoi vivere in perfetta salute per sempre. Tuttavia, non puoi portare nulla con te nella stanza, e nel momento in cui esci, l'invecchiamento riprende. Se una stanza del genere si trovasse proprio davanti a te, ci entreresti?
+
+(Note)
+
+Non c'è comunicazione tra l'interno e l'esterno. Non puoi vedere dall'esterno cosa accade dentro, né puoi vedere dall'interno cosa accade fuori.
+
+Nella stanza può entrare una sola persona alla volta.
+
+Se entra una persona anziana, questa torna in salute mantenendo la sua forma fisica attuale. Non ringiovanisce.
+
+All'uscita, il corpo torna allo stesso stato fisico in cui si trovava al momento dell'ingresso.
+
+(Se entra una persona malata, la malattia viene guarita. Tuttavia, all'uscita, ritorna al precedente stato di malattia. In altre parole, questa stanza non può essere usata per guarire una malattia entrando e uscendo ripetutamente.)
+
+(Anche se si fa allenamento con i pesi in questa stanza, il corpo tornerà al suo stato originale una volta usciti.)
+
+I ricordi non vengono cancellati anche se si entra ed esce dalla stanza.
+
+Tradotto dal giapponese con DeepL.
 
 ## Sources
 
