@@ -8,17 +8,19 @@ status: seedling
 
 # Patch Adams
 
-In 1969, Hunter "Patch" Adams, after developing suicidal thoughts, admits himself to a mental institution.
+Nel 1969, Hunter "Patch" Adams, dopo aver sviluppato pensieri suicidi, si ricovera volontariamente in un istituto psichiatrico.
 
 ## Body
 
-The real [Patch Adams](https://en.wikipedia.org/wiki/Patch_Adams "Patch Adams") has been openly critical of the film, saying that it sacrificed much of his message to make a film that would sell. He also said that out of all aspects of his life and activism, the film portrayed him merely as a funny doctor.[[16]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-chasingthefrog1-16) At a [Conference on World Affairs](https://en.wikipedia.org/wiki/Conference_on_World_Affairs "Conference on World Affairs"), he told film critic Roger Ebert, "I hate that movie."[[17]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-17)
+Il vero [Patch Adams](https://en.wikipedia.org/wiki/Patch_Adams "Patch Adams") ha più volte criticato apertamente il film, sostenendo che abbia sacrificato gran parte del suo messaggio per produrre qualcosa di commercialmente vendibile. Ha dichiarato che, di tutta la sua vita e del suo attivismo, il film lo ha ritratto semplicemente come un medico buffo.[[16]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-chasingthefrog1-16) A una [Conference on World Affairs](https://en.wikipedia.org/wiki/Conference_on_World_Affairs "Conference on World Affairs"), disse al critico cinematografico Roger Ebert: "Odio quel film."[[17]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-17)
 
-During a speech in 2010 at the [Mayo Clinic](https://en.wikipedia.org/wiki/Mayo_Clinic "Mayo Clinic"), Adams said that "The film promised to build our hospital. None of the profits from the film ever came to us, and so, basically 40 years into this work, we are still trying to build our hospital."[[18]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-18) Furthermore, Adams stated,
+Durante un discorso nel 2010 alla [Mayo Clinic](https://en.wikipedia.org/wiki/Mayo_Clinic "Mayo Clinic"), Adams disse che "Il film aveva promesso di costruire il nostro ospedale. Nessuno dei profitti del film è mai arrivato a noi, e quindi, fondamentalmente quarant'anni dopo l'inizio di questo lavoro, stiamo ancora cercando di costruire il nostro ospedale."[[18]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-18) Adams aggiunse:
 
-> [Robin Williams] made $21 million for four months of pretending to be me, in a very simplistic version, and did not give $10 to my free hospital. Patch Adams, the person, would have, if I had Robin's money, given all $21 million to a free hospital in a country where 80 million cannot get care.[[19]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-19)
+> [Robin Williams] ha guadagnato 21 milioni di dollari per quattro mesi a fingere di essere me, in una versione molto semplicistica, e non ha dato neanche 10 dollari al mio ospedale gratuito. Patch Adams, la persona, se avessi avuto i soldi di Robin, avrebbe dato tutti i 21 milioni a un ospedale gratuito in un paese dove 80 milioni di persone non riescono ad avere cure.[[19]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-19)
 
-Adams later clarified that he did not hate Williams,[[16]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-chasingthefrog1-16) and Williams actively supported [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital "St. Jude Children's Research Hospital") for several years.[[20]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-20) After Williams's death in 2014, Adams said, "I'm enormously grateful for his wonderful performance of my early life, which has allowed the Gesundheit Institute to continue and expand our work."[[21]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-21)
+Adams ha poi chiarito di non odiare Williams;[[16]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-chasingthefrog1-16) Williams ha sostenuto attivamente il [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital "St. Jude Children's Research Hospital") per diversi anni.[[20]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-20) Dopo la morte di Williams nel 2014, Adams disse: "Sono enormemente grato per la sua meravigliosa interpretazione della mia giovinezza, che ha permesso al Gesundheit Institute di continuare e ampliare il nostro lavoro."[[21]](https://en.wikipedia.org/wiki/Patch_Adams_\(film\)#cite_note-21)
+
+Il film è un caso emblematico di come Hollywood possa appropriarsi di una figura reale per produrre un prodotto lacrimogeno e consumabile, svuotandola del suo contenuto politico e sociale. Non un ruolo oscuro per Williams, ma un meccanismo diverso: la realtà viene tradita non attraverso il buio, ma attraverso la sentimentalizzazione.
 
 ## Sources
 
@@ -27,3 +29,5 @@ Adams later clarified that he did not hate Williams,[[16]](https://en.wikipedia.
 ## Related
 
 - [[Robin Williams]]
+- [[The Humiliation Ritual]]
+- [[Films as rituals]]
