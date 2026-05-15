@@ -36,6 +36,7 @@ source: sogno
 - La tradizione dei tatuaggi bosniaci (*šicanje*) nasce nel 1463 come resistenza all'assimilazione forzata ottomana — corpo come territorio sovrano che la cupola non può confiscare. Vedi [[Il Tatuaggio come Identità Inviolabile]].
 - Il titolo *Andromeda* non è decorativo: la galassia dista 2,537 milioni di anni luce. La luce che vediamo oggi è luce antica. Metafora precisa di una memoria soppressa che viaggia attraverso il tempo e riemerge — esattamente il meccanismo che la cupola cerca di bloccare.
 - I membri di [[Lelek]] portano i tatuaggi sul viso e sulle braccia sul palco dell'Eurovision: il corpo come archivio visivo portato dentro il quartier generale dei custodi.
+- La cupola opera come variante lenta della *skogsrå* del folklore scandinavo: non chiede il tuo nome, ti fa dimenticare da solo di averlo. Vedi [[Il Nome come Vettore di Possessione]].
 
 - Canzone: [[Andromeda]]
 - Band: [[Lelek]]
