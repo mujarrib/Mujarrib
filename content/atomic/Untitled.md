@@ -28,6 +28,8 @@ and installs a credential-stealing backdoor on Linux systems.
 The malware skips any machine set to Russian language. On top of that, if the system appears to be in Israel or Iran, it has a 1-in-6 chance of running rm -rf / and wiping everything.  
   
 Looks like for some weird reason they also targeted Nintendo Cemu Wii U emulator downloads.
+
+
 ## Sources
 
 - 
