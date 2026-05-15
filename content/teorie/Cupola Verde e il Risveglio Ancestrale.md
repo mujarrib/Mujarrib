@@ -29,4 +29,7 @@ source: sogno
 
 **La Croazia vincerà l'Eurosong.**
 
+- Canzone: [[Andromeda]]
+- Band: [[Lelek]]
+
 ![[Pasted image 20260515110840.png]]
