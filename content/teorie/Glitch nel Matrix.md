@@ -42,3 +42,11 @@ Questi episodi hanno in comune:
 - Accadono spesso in momenti di concentrazione intensa, buon umore, o crescita personale
 
 Una lettura: la realtà ordinaria è tenuta insieme dall'attenzione. Quando l'attenzione scivola, o si intensifica in modo insolito, la struttura percettiva si allenta — e qualcosa passa attraverso.
+
+## Sources
+
+- 
+
+## Related
+
+- https://www.reddit.com/r/GlitchInTheMatrix/
