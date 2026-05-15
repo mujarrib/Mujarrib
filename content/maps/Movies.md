@@ -23,3 +23,4 @@ All the movies worth watching
 ## Related
 
 - [[Films as rituals]]
+- [[Hollywood Dark Rituals]]
