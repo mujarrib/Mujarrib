@@ -30,7 +30,7 @@ Non meccanica quantistica, ma qualcosa di più vicino alla *law of assumption*: 
 ## Altre esperienze simili
 
 - Una matita sparisce davanti agli occhi di chi la tiene in mano, in un momento di benessere e presenza emotiva intensa. Ricompare mesi dopo in un posto fisicamente inaccessibile, insieme ad altri oggetti scomparsi.
-- Un macinino verde cade, viene visto scendere fino all'altezza degli stinchi da quattro persone, poi sparisce. Mesi dopo viene ritrovato in fondo a una stanza bloccata da nove scrivanie sovrapposte, con dentro ancora l'erba.
+- Un macinino per il fumo cade, viene visto scendere fino all'altezza degli stinchi da quattro persone, poi sparisce. Mesi dopo viene ritrovato in fondo a una stanza bloccata da nove scrivanie sovrapposte, con dentro ancora il fumo.
 - Due ragazzi prendono strade diverse per tornare a casa. Uno arriva prima, ma l'altro giura di averlo visto correre nel cortile ed entrare dalla porta sul retro. Il primo era entrato dalla strada principale e aspettava dentro.
 
 ## Il pattern
