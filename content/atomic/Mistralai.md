@@ -1,7 +1,8 @@
 ---
 title: mistralai
 date: 2026-05-15
-tags: []
+tags:
+  - software
 status: seedling
 ---
 
