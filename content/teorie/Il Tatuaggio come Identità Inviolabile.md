@@ -67,4 +67,4 @@ La cupola perde forza
 - La tradizione sopravvive ancora oggi in alcune comunità cattoliche della Bosnia e dell'Erzegovina
 - La luce di Andromeda impiega circa 2,537 milioni di anni per raggiungerci
 
-**Vedi anche:** [[Cupola Verde e il Risveglio Ancestrale]] · [[Lelek]] · [[Andromeda]]
+**Vedi anche:** [[Cupola Verde e il Risveglio Ancestrale]] · [[Lelek]] · [[Andromeda]] · [[Il Nome come Vettore di Possessione]]
