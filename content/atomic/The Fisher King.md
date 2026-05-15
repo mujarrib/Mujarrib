@@ -3,30 +3,43 @@ title: The Fisher King
 date: 2026-05-14
 tags:
   - movie
+  - conspiracy
 status: seedling
 ---
 
 # The Fisher King
 
-One sentence — the core idea.
+Film di Terry Gilliam (1991) con Jeff Bridges e [[Robin Williams]] — citato nel thread come uno dei film "BIG" nell'ambito esoterico hollywoodiano, anni prima che Williams iniziasse il suo percorso oscuro ufficiale.
 
 ## Body
 
-Jack Lucas, a [narcissistic](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder "Narcissistic personality disorder"), [misanthropic](https://en.wikipedia.org/wiki/Misanthropy "Misanthropy") [shock jock](https://en.wikipedia.org/wiki/Shock_jock "Shock jock"), dismisses a disturbed regular caller, Edwin, over his infatuation with a woman he met at a [Manhattan](https://en.wikipedia.org/wiki/Manhattan "Manhattan") restaurant. Jack brashly describes her social circle as a vain enemy to people like Edwin that "must be stopped before it's too late." Meanwhile, Jack has an equally vain girlfriend, a high-rise penthouse apartment, and is being considered for the lead in a comedic TV pilot. While practicing a line read at home, he turns on a news report and discovers, to his horror, that his comments spurred Edwin to commit a mass [murder–suicide](https://en.wikipedia.org/wiki/Murder%E2%80%93suicide "Murder–suicide") at the restaurant.
+### La trama
 
+Jack Lucas (Jeff Bridges) è un conduttore radiofonico narcisista e misantropo che, con una battuta cinica, spinge involontariamente un ascoltatore disturbato a compiere una sparatoria di massa in un ristorante di Manhattan. Tre anni dopo, distrutto dal senso di colpa, incontra Parry (Williams) — un uomo spezzato dalla stessa tragedia, che vive come un cavaliere medievale in cerca del Santo Graal per le strade di New York.
 
-Sure he was. The 'fisher king' was BIG. Anons here may think this /x/ stuff is "new" in the way it is presented or discussed, but these weirdos have been pedaling this weird wacky shit way back when. 
+### Il contenuto esoterico
 
-Another weird "/x/" movie he did was that "[[What Dreams May Come]]" (1998), and he partners with [[Cuba Gooding Jr.]] that little rapist ugly fucker play the role of "afterlife guidance". Aside form "[[Insomnia]]", he also did another movie in the SAME year, very similar "[[One Hour Photo]]" (2002). 
+Il film è saturo di simbologia arturiana e medievale: il Graal, la ferita che non guarisce (il "Fisher King" della mitologia celtica è il re ferito alla coscia che non può camminare né combattere), il folle come veggente. Terry Gilliam è un regista con un profilo iconografico molto specifico — come Gus Van Sant, la sua filmografia costruisce un tipo di immaginario riconoscibile.
 
-The same evil psycho character role. 
+Il thread lo cita come esempio di come "questi pazzi" producessero questo tipo di materiale già molto prima che il pattern diventasse visibile al grande pubblico. Williams era già inserito nel sistema come vettore di contenuti esoterici — non solo come icona PG.
 
-The same year he also makes that creepy shit on picrel, "[[Death to smoochy]]" with that dark creepy ass poster, a Barney like character loved by kids, assassinated. If THAT's not dark and twisted for "no reason", then I don't even know. He made those three movies in that 2002 year, a palindrome number, wich we know here what it means for ((these)) people. After that Williams quite stopped making "real movies", just some animation voices, an a few "cameo roles" like those in the "museum" movies. During those last ten years he started acting really loud and "out there" in public appearances.He was like an angry Jim Carrey. A few years later he was done.
+### Gli altri film di Williams nello stesso frame
+
+- *[[What Dreams May Come]]* (1998) — Cuba Gooding Jr. come "guida nell'aldilà"
+- *[[Insomnia]]* (2002) — primo villain esplicito
+- *One Hour Photo* (2002) — stesso anno, stesso tipo
+- *Death to Smoochy* (2002) — Barney assassinato, simbolismo dark per bambini
+
+Tutti film che nel thread vengono connessi alla stessa traiettoria di Williams come "asset" del sistema.
 
 ## Sources
 
 - https://en.wikipedia.org/wiki/The_Fisher_King
+- https://boards.4chan.org/x/thread/42335478/darknessfilms-as-rituals
 
 ## Related
 
-- [[Robin Williams]] 
+- [[Robin Williams]]
+- [[Insomnia]]
+- [[Films as rituals]]
+- [[Hollywood Dark Rituals]]
