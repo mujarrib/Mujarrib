@@ -1,5 +1,5 @@
 ---
-title: "Untitled 1"
+title: Una stanza dove non si invecchia
 date: 2026-05-15
 tags: []
 status: seedling
