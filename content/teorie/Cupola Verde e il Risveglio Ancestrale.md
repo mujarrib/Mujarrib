@@ -27,7 +27,7 @@ source: sogno
 > Molti si sentono riconnessi con gli antenati  
 > Inizia la destabilizzazione religiosa e politica dell'UE  
 
-**La Croazia vincerà l'Eurosong.**
+15 Maggio 2026: **La Croazia vincerà l'Eurosong.**
 
 ---
 
