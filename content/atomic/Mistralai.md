@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: mistralai
 date: 2026-05-15
 tags: []
 status: seedling
