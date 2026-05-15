@@ -22,7 +22,7 @@ Same happened to [[Keanu Reeves]], around those years he also played a brutal an
 
 All of these actors were spiritually broken at some point, for "some reason" you can absolutely tell when you look at them, they look empty like holding a terrible guilt or regret. 
 
-And I truly believe these particular "movies", are those "reasons". Many such cases, like Heath Ledger, in that "Broke back Mountain" movie, that was his particular humiliation ritual, he being a "method actor", had to PLAY that "role", and surely he did. He was never the same after that.
+And I truly believe these particular "movies", are those "reasons". Many such cases, like [[Heath Ledger]], in that "Broke back Mountain" movie, that was his particular humiliation ritual, he being a "method actor", had to PLAY that "role", and surely he did. He was never the same after that.
 
 He was probably a "warlock". He was also in the very esoteric movie [[The Fisher King]]. He was an important asset on the world stage and i never liked his aura, even before i knew about this /x/ stuff
 
