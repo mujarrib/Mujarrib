@@ -7,7 +7,7 @@ status: seedling
 
 # Untitled
 
-One sentence — the core idea.
+The mistralai Python package version 2.4.6 on PyPI was compromised with malware.
 
 ## Body
 
