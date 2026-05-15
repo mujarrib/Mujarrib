@@ -142,3 +142,5 @@ Il thread originale annuncia una nuova ondata:
 - [[The Cabin in the Woods]]
 - [[Lemony Snicket]]
 - [[The Watcher]]
+- [[The Odyssey]]
+- [[Stanley Kubrick]]
