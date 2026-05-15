@@ -16,21 +16,18 @@ Una stanza in cui il tempo si ferma. Dal momento in cui entri, l'invecchiamento 
 
 (Note)
 
-Non c'è comunicazione tra l'interno e l'esterno. Non puoi vedere dall'esterno cosa accade dentro, né puoi vedere dall'interno cosa accade fuori.
+> Non c'è comunicazione tra l'interno e l'esterno. Non puoi vedere dall'esterno cosa accade dentro, né puoi vedere dall'interno cosa accade fuori.
 
-Nella stanza può entrare una sola persona alla volta.
+> Nella stanza può entrare una sola persona alla volta.
 
-Se entra una persona anziana, questa torna in salute mantenendo la sua forma fisica attuale. Non ringiovanisce.
+> Se entra una persona anziana, questa torna in salute mantenendo la sua forma fisica attuale. Non ringiovanisce.
 
-All'uscita, il corpo torna allo stesso stato fisico in cui si trovava al momento dell'ingresso.
+> All'uscita, il corpo torna allo stesso stato fisico in cui si trovava al momento dell'ingresso. 
+- Se entra una persona malata, la malattia viene guarita. Tuttavia, all'uscita, ritorna al precedente stato di malattia. In altre parole, questa stanza non può essere usata per guarire una malattia entrando e uscendo ripetutamente.
 
-(Se entra una persona malata, la malattia viene guarita. Tuttavia, all'uscita, ritorna al precedente stato di malattia. In altre parole, questa stanza non può essere usata per guarire una malattia entrando e uscendo ripetutamente.)
+- Anche se si fa allenamento in questa stanza, il corpo tornerà al suo stato originale una volta usciti.
 
-(Anche se si fa allenamento con i pesi in questa stanza, il corpo tornerà al suo stato originale una volta usciti.)
-
-I ricordi non vengono cancellati anche se si entra ed esce dalla stanza.
-
-Tradotto dal giapponese con DeepL.
+> I ricordi non vengono cancellati anche se si entra ed esce dalla stanza.
 
 ## Sources
 
