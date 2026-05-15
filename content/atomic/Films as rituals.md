@@ -1,22 +1,74 @@
 ---
-title: "Darkness: Films as rituals"
+title: "Films as rituals"
 date: 2026-05-14
 tags:
   - movie
   - conspiracy
-status: seedling
+  - media
+  - ritual
+status: evergreen
 ---
 
-# Darkness: Films as rituals
+# Films as rituals
 
-There's going to be a wave of films that are essentially dark rituals on the audience.
+Il cinema come vettore di rituali collettivi: ogni proiezione è una cerimonia, ogni storia un imprinting di simboli nel pubblico che non ha dato consenso informato.
 
-## Body
+## Il concetto
 
-There's going to be a wave of films that are essentially dark rituals on the audience. Some have already came and gone, some are still coming, some have already been discussed here.  
-Two are set to release in May.  
-One is set to release in June.  
-One is planned to release in October.
+Una parte della produzione cinematografica mainstream non è intrattenimento — è rituali di massa travestiti da fiction. Il pubblico vi partecipa senza saperlo, esponendosi a simboli, imprinting emotivi, e messaggi subliminali che lavorano sotto la soglia della coscienza critica.
+
+L'idea non è nuova. Tecnicamente, **qualsiasi media che consumi è un rituale**: la commedia e l'action sono tra i più potenti proprio perché chiedono al pubblico di *sospendere il giudizio* e entrare in uno stato ricettivo, mentre la storia plasma il mondo intorno a te. La differenza tra intrattenimento normale e rituale oscuro sta nell'*intenzionalità* di chi produce e nell'*orientamento* dei simboli impressi.
+
+## Come riconoscere un film-rituale
+
+Due marcatori principali:
+
+**1. Lo sforzo promozionale** è il primo segnale. Oggi la promozione stessa è un rituale: il cast viene obbligato a produrre una mini-sitcom sulla propria "relazione", a fare interviste in coppia dove si "sfottono" o insinuano romance, a giocare con cuccioli. Quando lo sforzo è sproporzionato, significa che *qualcuno* vuole davvero che quel film venga visto da tutti.
+
+**2. Il messaggio non deve essere esoterico**. Può essere semplice come vendere un giocattolo o un brand. Il "rituale" riguarda il consolidamento del potere monetario come autorità suprema — più forte della religione, della morale familiare, della saggezza ereditata. Qualunque figura che sfida questa autorità viene sistematicamente distrutta (Lincoln, JFK, il Papa in vari periodi).
+
+## Tropoi ritualistici ricorrenti
+
+- **La donna e la morte**: la coppia che fa sesso viene uccisa. Vedi nei film di Jason, in [[The Cabin in the Woods]], in praticamente ogni horror anni '70-'90. Lettura simbolica: il sacrificio del concepimento, il bambino mai nato. [[The Cabin in the Woods]] (2011) lo rende quasi esplicito: un'organizzazione segreta mantiene un cancello all'inferno sotto sorveglianza e *deve* offrire sacrifici umani per tenere i demoni a bada. Le agenzie scommettono sui tempi.
+- **Il minuto 33**: in certi film, a quel minuto accade qualcosa di particolarmente "strano". In *[[Lemony Snicket]]* (2004), al minuto 33, Billy Connolly apre la gabbia del serpente nero davanti al neonato senza motivo — il bambino urla con angoscia — e lui la richiude. Meccanico, senza logica narrativa.
+- **Il bambino come vittima implicita**: non sempre mostrato, spesso solo *suggerito*. In *Eyes Wide Shut*, sul bagno dove giace la prostituta overdosata c'è un dipinto di una donna simile, ma incinta. Il solo *accenno* è sufficiente per l'imprinting simbolico.
+- **Il protagonista adorato in ruolo di mostro**: massimizzare il trauma nel pubblico attraverso il tradimento di un'icona familiare. [[Robin Williams]] killer in [[Insomnia]], [[Jim Carrey]] predatore di bambini in [[Lemony Snicket]], [[Keanu Reeves]] serial killer in [[The Watcher]].
+
+## Film da evitare (lista thread)
+
+Questi titoli vengono segnalati come rituali attivi da non consumare:
+
+- *Undertone*
+- *Longlegs* (2024)
+- *Clayface*
+- *Smile* (2022) e *Smile 2* (2024)
+- *The Backrooms*
+- *Digital Circus* (finale)
+- *Is God Is*
+- *Obsession*
+
+## L'ondata in arrivo (maggio–ottobre 2026)
+
+Il thread originale annuncia una nuova ondata:
+- Due titoli in uscita a maggio 2026
+- Uno in uscita a giugno 2026 (ipotesi thread: *Amazing Digital Circus*, ep. 9)
+- Uno in ottobre 2026
+
+## Film-rituali non ovvi
+
+Il thread fa notare che i "film di supereroi" e produzioni come *Wicked* non sono esclusi dalla categoria. *Project Hail Mary* viene citato come uno dei pochi film recenti a simulare ancora una monocultura e a generare conversazione collettiva — una funzione rituale di coesione, non necessariamente oscura, ma intenzionale.
+
+Il contropeso alla lista nera: *Marty Supreme*, il nuovo *Scary Movie*, *Scream 6*, *Michael*, *The Batman*, *Superman* — citati come "puro intrattenimento". Ma il confine è contestato.
+
+## Media come rituale universale
+
+> *"As above, as below. Technically any media you consume is a ritual. Comedy and action is one of the most potent ones because you are asked to leave your reasoning at the door."*
+
+Commercials, half-time show, roast ceremony: ogni format che normalizza un comportamento o uno schema relazionale è un rituale di programmazione sociale. Il "roast" istituzionalizzato americano viene letto come dispositivo di ordine sociale — chi è in alto umilia chi è sotto di sé, e il pubblico impara che l'umiliazione pubblica è normale e accettabile.
+
+## Il nesso con gli attori spezzati
+
+I film-rituali richiedono attori che *vivano* il ruolo, non solo lo recitino. Questo spiega il pattern degli [[Hollywood broken actors]]: performer di altissimo livello che entrano in un ruolo e non ne escono interi. Il sistema li seleziona proprio per questa qualità. Vedi: [[The Humiliation Ritual]], [[Robin Williams]], [[Heath Ledger]], [[Jim Carrey]], [[River Phoenix]].
 
 ## Sources
 
@@ -24,6 +76,11 @@ One is planned to release in October.
 
 ## Related
 
+- [[The Humiliation Ritual]]
 - [[Robin Williams]]
 - [[Keanu Reeves]]
 - [[Jim Carrey]]
+- [[Heath Ledger]]
+- [[River Phoenix]]
+- [[Insomnia]]
+- [[The Fisher King]]
