@@ -1,7 +1,8 @@
 ---
 title: Una stanza dove non si invecchia
 date: 2026-05-15
-tags: []
+tags:
+  - pensieri
 status: seedling
 ---
 
