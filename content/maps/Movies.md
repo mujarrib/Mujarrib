@@ -15,6 +15,12 @@ Tutti i film che vale la pena di vedere
 [[The Fisher King]]
 [[Insomnia]]
 [[Patch Adams]]
+[[My Own Private Idaho]]
+[[The Watcher]]
+[[One Hour Photo]]
+[[What Dreams May Come]]
+[[The Cabin in the Woods]]
+[[Lemony Snicket]]
 
 ## Sources
 
