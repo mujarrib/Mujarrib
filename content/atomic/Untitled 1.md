@@ -7,7 +7,7 @@ status: seedling
 
 # Untitled 1
 
-One sentence — the core idea.
+A room where aging stops.
 
 ## Body
 
