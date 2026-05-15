@@ -1,6 +1,6 @@
 ---
 title: Cupola Verde e il Risveglio Ancestrale
-tags: [teoria, spiritualità, ancestrale, europa, eurosong]
+tags: [teoria, spiritualità, ancestrale, europa, eurosong, identità, resistenza]
 date: 2026-05-15
 source: sogno
 ---
