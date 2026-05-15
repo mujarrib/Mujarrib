@@ -63,3 +63,6 @@ Il sistema non distrugge tutti indiscriminatamente: *seleziona*. Chi è più per
 - [[River Phoenix]]
 - [[Robin Williams]]
 - [[The Watcher]]
+- [[The Humiliation Ritual]]
+- [[My Own Private Idaho]]
+- [[Keanu Reeves]]
