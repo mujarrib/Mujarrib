@@ -31,5 +31,6 @@ source: sogno
 
 - Canzone: [[Andromeda]]
 - Band: [[Lelek]]
+- Il meccanismo del tatuaggio come vettore di memoria incarnata: [[Il Tatuaggio come Identità Inviolabile]]
 
 ![[Pasted image 20260515110840.png]]
