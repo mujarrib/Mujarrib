@@ -60,7 +60,7 @@ const socialLinks: SocialLink[] = [
   },
   {
     label: "Telegram",
-    url: "https://t.me/@Nghdmr",              // ← aggiungi username o link canale
+    url: "https://t.me/Nghdmr",              // ← aggiungi username o link canale
     icon: "telegram",
     show: true,
   },
