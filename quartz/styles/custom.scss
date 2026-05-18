@@ -513,6 +513,7 @@ a.lk-card {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
   width: 38px;
   height: 38px;
   border: 1px solid rgba(57, 255, 20, 0.15);
@@ -522,7 +523,12 @@ a.lk-card {
   border-bottom: none !important;
   transition: border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
 
-  svg { width: 18px; height: 18px; }
+  svg {
+    display: block;
+    width: 18px !important;
+    height: 18px !important;
+    flex-shrink: 0;
+  }
 
   &:hover {
     border-color: rgba(57, 255, 20, 0.5) !important;
@@ -553,7 +559,13 @@ a.lk-card {
   font-family: var(--bodyFont);
   transition: color 0.15s ease;
 
-  svg { opacity: 0.6; }
+  svg {
+    display: block;
+    width: 16px !important;
+    height: 16px !important;
+    flex-shrink: 0;
+    opacity: 0.6;
+  }
 
   &:hover {
     color: var(--secondary) !important;
