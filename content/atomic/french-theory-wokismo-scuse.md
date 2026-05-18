@@ -44,7 +44,7 @@ date: 2026-05-18
 
 *Ecco come tre filosofi parigini, che probabilmente non hanno mai immaginato le loro conseguenze pratiche, hanno fornito il software di sfruttamento a un'intera generazione di attivisti, di burocrati universitari, di responsabili delle risorse umane, di giornalisti, di legislatori.*
 
-**Commento.** "Software di sfruttamento" è un'immagine precisa. Un framework intellettuale funziona come un sistema operativo: determina quali processi possono girare e quali no, quali output sono possibili, quali domande sono formulabili. Se il sistema operativo è "ogni gerarchia è sospetta per definizione", allora nessuna gerarchia può mai essere legittimata, nemmeno provvisoriamente, nemmeno funzionalmente. Il sistema non può produrre costruzione — può solo produrre audit e demolizione. Vale la pena notare che Butler, Said e Crenshaw hanno costruito *qualcosa* — corpi teorici coerenti, interni, difendibili — ma costruito su un suolo che nega la possibilità stessa di fondamenta.
+**Commento.** "[[Software di sfruttamento]]" è un'immagine precisa. Un framework intellettuale funziona come un sistema operativo: determina quali processi possono girare e quali no, quali output sono possibili, quali domande sono formulabili. Se il sistema operativo è "ogni gerarchia è sospetta per definizione", allora nessuna gerarchia può mai essere legittimata, nemmeno provvisoriamente, nemmeno funzionalmente. Il sistema non può produrre costruzione — può solo produrre audit e demolizione. Vale la pena notare che Butler, Said e Crenshaw hanno costruito *qualcosa* — corpi teorici coerenti, interni, difendibili — ma costruito su un suolo che nega la possibilità stessa di fondamenta.
 
 ---
 
