@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import StatusBadge from "./StatusBadge"
 import HeadingStyle from "./HeadingStyle"
+import SocialBar from "./SocialBar"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   StatusBadge,
   HeadingStyle,
+  SocialBar,
 }
