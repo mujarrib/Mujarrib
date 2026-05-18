@@ -267,3 +267,171 @@ footer {
   background: var(--secondary);
   box-shadow: 0 0 6px var(--secondary);
 }
+
+// ─── HOMEPAGE LINKTREE ───────────────────────────────────────────────────────
+
+.page[data-slug="index"] {
+  .sidebar.left,
+  .sidebar.right {
+    display: none !important;
+  }
+
+  .center {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    grid-column: 1 / -1 !important;
+  }
+
+  article {
+    padding: 0;
+  }
+
+  // Hide default article title rendered by Quartz
+  .article-title,
+  .article-title-readable,
+  .content-meta,
+  .tag-list {
+    display: none;
+  }
+}
+
+// Link card grid
+.lk-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin: 2rem 0 1.5rem;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.lk-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1.2rem 1rem;
+  background: var(--lightgray);
+  border: 1px solid rgba(57, 255, 20, 0.1);
+  border-radius: 4px;
+  text-decoration: none !important;
+  color: var(--dark) !important;
+  border-bottom: none !important;
+  transition: border-color 0.2s ease, background 0.2s ease;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(57, 255, 20, 0.04) 0%, transparent 60%);
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  &:hover {
+    border-color: rgba(57, 255, 20, 0.4) !important;
+    background: rgba(57, 255, 20, 0.04);
+    opacity: 1 !important;
+
+    &::before { opacity: 1; }
+
+    .lk-arrow { transform: translateX(3px); }
+  }
+
+  &.lk-full {
+    grid-column: 1 / -1;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+  }
+}
+
+.lk-icon {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.lk-label {
+  font-family: "RunicElder", monospace;
+  font-size: 0.85rem;
+  color: var(--secondary);
+  letter-spacing: 0.05em;
+  line-height: 1.2;
+}
+
+.lk-desc {
+  font-size: 0.72rem;
+  color: var(--gray);
+  line-height: 1.4;
+  font-family: var(--bodyFont);
+}
+
+.lk-arrow {
+  margin-top: auto;
+  font-size: 0.7rem;
+  color: var(--secondary);
+  font-family: var(--bodyFont);
+  transition: transform 0.2s ease;
+  opacity: 0.6;
+}
+
+// Homepage hero block
+.lk-hero {
+  padding: 2.5rem 0 1rem;
+  border-bottom: 1px solid var(--lightgray);
+  margin-bottom: 0.5rem;
+  position: relative;
+
+  &::after {
+    content: "◈";
+    position: absolute;
+    bottom: -0.55em;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--light);
+    padding: 0 0.6rem;
+    color: var(--secondary);
+    font-size: 0.7rem;
+  }
+}
+
+.lk-title {
+  font-family: "RunicElder", monospace;
+  font-size: 2.2rem;
+  color: var(--secondary);
+  letter-spacing: 0.08em;
+  line-height: 1.1;
+  margin-bottom: 0.3rem;
+  text-shadow: 0 0 20px rgba(57, 255, 20, 0.3);
+}
+
+.lk-subtitle {
+  font-size: 0.8rem;
+  color: var(--gray);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-family: var(--bodyFont);
+}
+
+.lk-tagline {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--darkgray);
+  font-style: italic;
+  line-height: 1.6;
+  font-family: var(--bodyFont);
+}
+
+.lk-section-label {
+  font-size: 0.6rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  margin: 2rem 0 0.5rem;
+  font-family: var(--bodyFont);
+  opacity: 0.7;
+}
