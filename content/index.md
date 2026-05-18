@@ -2,37 +2,56 @@
 title: Mujarrib
 ---
 
-# Mujarrib
+<div class="lk-hero">
+  <div class="lk-title">Mujarrib</div>
+  <div class="lk-subtitle">مُجرِّب &nbsp;·&nbsp; one who experiments</div>
+  <p class="lk-tagline">
+    Un giardino digitale. Non un blog, non un portfolio.<br>
+    Cose vive a stadi diversi — semi, germogli, note finite (per ora).
+  </p>
+</div>
 
-*مُجرِّب* — one who experiments. One who puts things to the test.
+<div class="lk-section-label">Entra</div>
 
----
+<div class="lk-grid">
+  <a href="/maps" class="lk-card lk-full">
+    <div class="lk-icon">◈</div>
+    <div style="flex:1">
+      <div class="lk-label">Maps</div>
+      <div class="lk-desc">Punti di ingresso tematici — comincia da qui.</div>
+    </div>
+    <div class="lk-arrow">→</div>
+  </a>
 
-My work sits at the intersection of operations, data, and product — scaling, untangling platform decisions, building the infrastructure that makes a small team punch above its weight.
+  <a href="/film" class="lk-card">
+    <div class="lk-icon">⬡</div>
+    <div class="lk-label">Film</div>
+    <div class="lk-desc">Cinema come rituale. Immagini che restano.</div>
+    <div class="lk-arrow">→</div>
+  </a>
 
-I'm from Veneto. That's not incidental.
+  <a href="/teorie" class="lk-card">
+    <div class="lk-icon">⌬</div>
+    <div class="lk-label">Teorie</div>
+    <div class="lk-desc">Ipotesi sulla simulazione, il nome, il glitch.</div>
+    <div class="lk-arrow">→</div>
+  </a>
 
----
+  <a href="/demoni" class="lk-card">
+    <div class="lk-icon">◬</div>
+    <div class="lk-label">Demoni</div>
+    <div class="lk-desc">Attori che hanno attraversato qualcosa di più grande.</div>
+    <div class="lk-arrow">→</div>
+  </a>
 
-## What this place is
+  <a href="/atomic" class="lk-card">
+    <div class="lk-icon">·</div>
+    <div class="lk-label">Atomic</div>
+    <div class="lk-desc">Note singole, idee in qualsiasi stato di maturità.</div>
+    <div class="lk-arrow">→</div>
+  </a>
+</div>
 
-Not a blog. Not a portfolio. A garden — meaning things here are alive at different stages. Some notes are seeds, some are half-grown, some are finished (for now).
+<div class="lk-section-label">Note</div>
 
-I think out loud here about:
-
-- Ecommerce infrastructure — feeds, marketplaces, platforms, the unglamorous work that compounds
-- AI tooling — practical, not theoretical
-- Things I'm building or breaking — including an RTX 5070 on a Linux machine called Arcadia
-- Grappa infusions and what they have to do with patience
-- Italian television from the '90s, digitized off VHS, one tape at a time
-
----
-
-## Navigate
-
-- [[maps/|Maps]] — thematic entry points
-- [[atomic/|Notes]] — single ideas, in any state of readiness
-
----
-
-*If you're reading this: these are working notes. Expect incompleteness. Expect revision.*
+*Questi sono appunti di lavoro. Aspettati incompletezze. Aspettati revisioni.*
