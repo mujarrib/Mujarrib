@@ -19,7 +19,7 @@ La formula *vanitas vanitatum* non è una semplice ripetizione enfatica: è un *
 
 La stessa struttura governa:
 - *Cantico dei Cantici* → il più bel canto
-- *[[Cunto de li Cunti]]* → il racconto dei racconti
+- *[[Cunto de li Cunti - Basile]]* → il racconto dei racconti
 - *Re dei Re* → il sovrano più potente
 - *Sancta Sanctorum* → il luogo più sacro
 
