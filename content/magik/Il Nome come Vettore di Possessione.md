@@ -59,3 +59,5 @@ Documentato in modo indipendente in:
 - Bosnia ottomana (inversione: identità come scudo)
 
 L'indipendenza geografica e temporale suggerisce che il pattern risponde a qualcosa di strutturalmente vero sul rapporto tra identità e controllo.
+
+Una variante istituzionale dello stesso meccanismo: le Chiese cristiane hanno operato per secoli come predatori del nome divino, rivendicando il monopolio sull'accesso al sacro e dichiarando eretica qualsiasi pratica di rivelazione diretta. Vedi [[Monopolio sulla Rivelazione come Forma di Possessione]].
