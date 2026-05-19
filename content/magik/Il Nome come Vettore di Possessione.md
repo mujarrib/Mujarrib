@@ -41,6 +41,7 @@ Il segno non dice "non sono nessuno". Dice "sono qualcosa che non puoi prendere"
 | Occultamento | Skogsrå, Odisseo/Ciclope | Azzerata ("Nessuno") |
 | Sovraesposizione | Tatuaggi bosniaci | Amplificata come repellente |
 | Oblio forzato | [[Cupola Verde e il Risveglio Ancestrale]] | Erosa lentamente |
+| Monopolio sul nome | [[Monopolio sulla Rivelazione come Forma di Possessione]] | Sequestrata dall'istituzione |
 
 La [[Cupola Verde e il Risveglio Ancestrale]] opera come una variante lenta del meccanismo della skogsrå: non chiede il tuo nome — ti fa dimenticare da solo di averlo. Non è possessione immediata ma dissoluzione progressiva dell'identità ancestrale.
 
