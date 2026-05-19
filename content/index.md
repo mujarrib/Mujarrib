@@ -21,34 +21,6 @@ title: Mujarrib
     </div>
     <div class="lk-arrow">→</div>
   </a>
-
-  <a href="/film" class="lk-card">
-    <div class="lk-icon">⬡</div>
-    <div class="lk-label">Film</div>
-    <div class="lk-desc">Cinema come rituale. Immagini che restano.</div>
-    <div class="lk-arrow">→</div>
-  </a>
-
-  <a href="/teorie" class="lk-card">
-    <div class="lk-icon">⌬</div>
-    <div class="lk-label">Teorie</div>
-    <div class="lk-desc">Ipotesi sulla simulazione, il nome, il glitch.</div>
-    <div class="lk-arrow">→</div>
-  </a>
-
-  <a href="/demoni" class="lk-card">
-    <div class="lk-icon">◬</div>
-    <div class="lk-label">Demoni</div>
-    <div class="lk-desc">Attori che hanno attraversato qualcosa di più grande.</div>
-    <div class="lk-arrow">→</div>
-  </a>
-
-  <a href="/atomic" class="lk-card">
-    <div class="lk-icon">·</div>
-    <div class="lk-label">Atomic</div>
-    <div class="lk-desc">Note singole, idee in qualsiasi stato di maturità.</div>
-    <div class="lk-arrow">→</div>
-  </a>
 </div>
 
 <div class="lk-section-label">Note</div>
