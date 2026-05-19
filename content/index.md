@@ -3,7 +3,6 @@ title: Mujarrib
 ---
 
 <div class="lk-hero">
-  <div class="lk-title">Mujarrib</div>
   <div class="lk-subtitle">مُجرِّب &nbsp;·&nbsp; one who experiments</div>
   <p class="lk-tagline">
     Un giardino digitale. Non un blog, non un portfolio.<br>
