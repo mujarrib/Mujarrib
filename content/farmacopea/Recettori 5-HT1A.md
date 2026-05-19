@@ -7,7 +7,7 @@ status: seedling
 
 # Recettori 5-HT1A
 
-Il recettore 5-HT1A è un sottotipo di recettore della serotonina (uno dei 14 noti) accoppiato a proteine Gi/o che inibisce l'adenilil-ciclasi e modula cascate secondarie (vie MAPK, canali NMDA). È il principale bersaglio dei farmaci ansiolitici come il buspirone e contribuisce al meccanismo d'azione di antidepressivi e antipsicotici. In contesti magici e chamanoici, l'interesse è nella sua attivazione tramite piante psicotrope: vedi [[sigil-magic-shoaling]].
+Il recettore 5-HT1A è un sottotipo di recettore della serotonina (uno dei 14 noti) accoppiato a proteine Gi/o che inibisce l'adenilil-ciclasi e modula cascate secondarie (vie MAPK, canali NMDA). È il principale bersaglio dei farmaci ansiolitici come il buspirone e contribuisce al meccanismo d'azione di antidepressivi e antipsicotici. In contesti magici e chamanoici, l'interesse è nella sua attivazione tramite piante psicotrope: vedi [[Sigil Magic Shoaling]].
 
 ## Localizzazione
 
@@ -124,5 +124,5 @@ La mitraginine ha attività su recettori oppioidi (agonismo μ parziale) ma anch
 
 ## Vedi anche
 
-- [[sigil-magic-shoaling]] — contesto di utilizzo pratico degli agonisti 5-HT1A in ambito magico
+- [[Sigil Magic Shoaling]] — contesto di utilizzo pratico degli agonisti 5-HT1A in ambito magico
 - [[Austin Osman Spare]]

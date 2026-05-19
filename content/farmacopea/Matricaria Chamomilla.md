@@ -7,7 +7,7 @@ status: seedling
 
 # Matricaria chamomilla
 
-Pianta annuale della famiglia Asteraceae, tra le erbe medicinali più usate al mondo. I suoi fiori contengono **apigenina**, flavonoide con proprietà ansiolitiche, sedative e antiinfiammatorie. L'attività sul sistema nervoso è mediata principalmente da recettori GABA-A e, in misura minore, da [[recettori-5-HT1A|5-HT1A]].
+Pianta annuale della famiglia Asteraceae, tra le erbe medicinali più usate al mondo. I suoi fiori contengono **apigenina**, flavonoide con proprietà ansiolitiche, sedative e antiinfiammatorie. L'attività sul sistema nervoso è mediata principalmente da recettori GABA-A e, in misura minore, da [[Recettori 5-HT1A|5-HT1A]].
 
 ## Principi attivi principali
 
@@ -61,6 +61,6 @@ L'apigenina ha bassa biodisponibilità orale allo stato libero. La forma glicosi
 
 ## Vedi anche
 
-- [[recettori-5-HT1A]]
-- [[lavandula-angustifolia]] — meccanismo ansiolitico parzialmente sovrapposto (GABA-A + 5-HT1A)
-- [[apium-graveolens]] — contiene apigenina in forma diversa
+- [[Recettori 5-HT1A]]
+- [[Lavandula Angustifolia]] — meccanismo ansiolitico parzialmente sovrapposto (GABA-A + 5-HT1A)
+- [[Apium Graveolens]] — contiene apigenina in forma diversa

@@ -31,7 +31,7 @@ L'ergina è un **agonista parziale** con profilo recettoriale ampio:
 
 Rispetto all'LSD (derivato semisintetico degli stessi alcaloidi) l'ergina ha effetti più sedativi, onirici e meno visivi. La componente 5-HT1A più pronunciata rispetto al profilo 5-HT2A spiega la qualità diversa dell'esperienza.
 
-Vedi [[recettori-5-HT1A]] per il profilo comparativo con altri agonisti vegetali.
+Vedi [[Recettori 5-HT1A]] per il profilo comparativo con altri agonisti vegetali.
 
 ## Etnobotanica
 
@@ -53,5 +53,5 @@ Vedi [[recettori-5-HT1A]] per il profilo comparativo con altri agonisti vegetali
 
 ## Vedi anche
 
-- [[recettori-5-HT1A]]
+- [[Recettori 5-HT1A]]
 - [[argyreia-nervosa]] — specie correlata (Hawaiian Baby Woodrose), concentrazione LSA molto più alta

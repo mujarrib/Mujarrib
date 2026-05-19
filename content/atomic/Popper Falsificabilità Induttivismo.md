@@ -40,5 +40,5 @@ Meillassoux cita Popper nel contesto della distinzione tra science fiction (che 
 
 ## Connessioni
 
-- [[problema-del-male-monad-perfezione]] — la contingenza radicale come struttura metafisica
-- [[ideologia-come-software]] — "domanda aperta: esiste un antivirus ideologico?" → Popper come candidato (dubbio metodico come falsificazione continua), con gli stessi limiti del dubbio cartesiano
+- [[Problema del Male Monad Perfezione]] — la contingenza radicale come struttura metafisica
+- [[Ideologia Come Software]] — "domanda aperta: esiste un antivirus ideologico?" → Popper come candidato (dubbio metodico come falsificazione continua), con gli stessi limiti del dubbio cartesiano

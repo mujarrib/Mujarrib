@@ -40,5 +40,5 @@ Il paradosso: usava la filosofia come critica politica velata, ma la velatura er
 
 ## Connessioni
 
-- [[ideologia-come-software]] — il nazismo come "software" con bias tecnologico; Heidegger come caso di chi tenta di smontare il framework dall'interno usando gli stessi strumenti
+- [[Ideologia Come Software]] — il nazismo come "software" con bias tecnologico; Heidegger come caso di chi tenta di smontare il framework dall'interno usando gli stessi strumenti
 - [[Monopolio sulla Rivelazione come Forma di Possessione]] — la struttura del controllo istituzionale che dichiara eretico chi rivendica accesso diretto (qui: accesso diretto alla "vera" rivoluzione)

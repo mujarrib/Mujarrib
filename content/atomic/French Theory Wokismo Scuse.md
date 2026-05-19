@@ -44,7 +44,7 @@ date: 2026-05-18
 
 *Ecco come tre filosofi parigini, che probabilmente non hanno mai immaginato le loro conseguenze pratiche, hanno fornito il software di sfruttamento a un'intera generazione di attivisti, di burocrati universitari, di responsabili delle risorse umane, di giornalisti, di legislatori.*
 
-**Commento.** "Software di sfruttamento" è un'immagine precisa — vedi [[ideologia-come-software]] per i riferimenti teorici canonici (Žižek, Rushkoff, Dawkins). Un framework intellettuale funziona come un sistema operativo: determina quali processi possono girare e quali no, quali output sono possibili, quali domande sono formulabili. Se il sistema operativo è "ogni gerarchia è sospetta per definizione", allora nessuna gerarchia può mai essere legittimata, nemmeno provvisoriamente, nemmeno funzionalmente. Il sistema non può produrre costruzione — può solo produrre audit e demolizione. Vale la pena notare che Butler, Said e Crenshaw hanno costruito *qualcosa* — corpi teorici coerenti, interni, difendibili — ma costruito su un suolo che nega la possibilità stessa di fondamenta.
+**Commento.** "Software di sfruttamento" è un'immagine precisa — vedi [[Ideologia Come Software]] per i riferimenti teorici canonici (Žižek, Rushkoff, Dawkins). Un framework intellettuale funziona come un sistema operativo: determina quali processi possono girare e quali no, quali output sono possibili, quali domande sono formulabili. Se il sistema operativo è "ogni gerarchia è sospetta per definizione", allora nessuna gerarchia può mai essere legittimata, nemmeno provvisoriamente, nemmeno funzionalmente. Il sistema non può produrre costruzione — può solo produrre audit e demolizione. Vale la pena notare che Butler, Said e Crenshaw hanno costruito *qualcosa* — corpi teorici coerenti, interni, difendibili — ma costruito su un suolo che nega la possibilità stessa di fondamenta.
 
 ---
 
@@ -74,5 +74,5 @@ Detto questo: *al lavoro* è la risposta giusta. Non perché costruire sia suffi
 
 ## Riferimenti correlati
 
-- [[problema-del-male-monad-perfezione]] — la questione del male come struttura, non come incidente
-- [[french-theory]] — se esiste una nota dedicata ai testi primari
+- [[Problema del Male Monad Perfezione]] — la questione del male come struttura, non come incidente
+- [[French Theory Wokismo Scuse]] — se esiste una nota dedicata ai testi primari

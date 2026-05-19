@@ -7,7 +7,7 @@ status: seedling
 
 # Lavandula angustifolia
 
-Arbusto perenne della famiglia Lamiaceae, originario del bacino mediterraneo. L'olio essenziale di lavanda è il fitoterapico ansiolitico più studiato al mondo; il suo principio attivo principale, il **linalolo**, agisce in parte tramite i recettori [[recettori-5-HT1A|5-HT1A]].
+Arbusto perenne della famiglia Lamiaceae, originario del bacino mediterraneo. L'olio essenziale di lavanda è il fitoterapico ansiolitico più studiato al mondo; il suo principio attivo principale, il **linalolo**, agisce in parte tramite i recettori [[Recettori 5-HT1A|5-HT1A]].
 
 ## Principi attivi principali
 
@@ -58,5 +58,5 @@ Riferimento chiave: Linck VM et al. *Inhaled linalool-induced sedation in mice*.
 
 ## Vedi anche
 
-- [[recettori-5-HT1A]]
-- [[matricaria-chamomilla]] — altro ansiolitico vegetale con meccanismo parzialmente sovrapposto
+- [[Recettori 5-HT1A]]
+- [[Matricaria Chamomilla]] — altro ansiolitico vegetale con meccanismo parzialmente sovrapposto

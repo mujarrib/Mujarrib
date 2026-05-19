@@ -25,11 +25,11 @@ Non si tratta di censura esplicita o repressione diretta. Il campo del "quasi tu
 
 Le azioni con **conseguenze pratiche reali** — sulla politica, sull'economia, sull'ambiente, sulle istituzioni — rimangono fuori dalla portata individuale non per proibizione ma per *impossibilità strutturale*: sono gestite da organizzazioni troppo grandi e complesse per essere influenzate da un singolo.
 
-Vedi [[kaczynski-grandi-organizzazioni-controllo]] per il lato complementare: chi controlla effettivamente quelle conseguenze.
+Vedi [[Kaczynski Grandi Organizzazioni Controllo]] per il lato complementare: chi controlla effettivamente quelle conseguenze.
 
 ---
 
 ## Connessioni
 
-- [[ideologia-come-software]] — la libertà come *interfaccia* che nasconde i vincoli strutturali sottostanti; "l'utente interagisce con l'interfaccia, non con il codice"
+- [[Ideologia Come Software]] — la libertà come *interfaccia* che nasconde i vincoli strutturali sottostanti; "l'utente interagisce con l'interfaccia, non con il codice"
 - [[Monopolio sulla Rivelazione come Forma di Possessione]] — la struttura è analoga: accesso illimitato alla superficie, monopolio sul nucleo

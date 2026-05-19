@@ -37,6 +37,6 @@ La prima colonna è la "libertà" celebrata dal discorso liberale moderno. La se
 
 ## Connessioni
 
-- [[kaczynski-liberta-senza-conseguenze]] — il lato complementare: la libertà concessa è esattamente quella che non incide sul secondo dominio
-- [[ideologia-come-software]] — le grandi organizzazioni come "hardware" che il software ideologico non può modificare dall'interno
+- [[Kaczynski Libertà Senza Conseguenze]] — il lato complementare: la libertà concessa è esattamente quella che non incide sul secondo dominio
+- [[Ideologia Come Software]] — le grandi organizzazioni come "hardware" che il software ideologico non può modificare dall'interno
 - [[Monopolio sulla Rivelazione come Forma di Possessione]] — stessa struttura: custodi istituzionali che mantengono il monopolio sulle questioni che contano

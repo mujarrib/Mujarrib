@@ -7,7 +7,7 @@ status: seedling
 
 # Apium graveolens
 
-Pianta biennale della famiglia Apiaceae, coltivata come ortaggio (sedano da costa, sedano rapa, sedano da foglie). Oltre al valore nutrizionale è una fonte significativa di **apigenina** e altri flavonoidi con attività sul sistema nervoso centrale, condivisi con [[matricaria-chamomilla]].
+Pianta biennale della famiglia Apiaceae, coltivata come ortaggio (sedano da costa, sedano rapa, sedano da foglie). Oltre al valore nutrizionale è una fonte significativa di **apigenina** e altri flavonoidi con attività sul sistema nervoso centrale, condivisi con [[Matricaria Chamomilla]].
 
 ## Principi attivi rilevanti (parti aeree e semi)
 
@@ -29,7 +29,7 @@ Il contenuto di apigenina in *Apium graveolens* è comparabile a quello della ca
 - In *Matricaria*: apigenina libera e apiin, disponibili nell'infuso.
 - In *Apium*: prevalentemente apiin (glicosilato), meno biodisponibile dall'infuso, meglio da estratti o consumo fresco/cotto.
 
-Il meccanismo d'azione è lo stesso: agonismo parziale GABA-A + modulazione serotoninergica con possibile coinvolgimento [[recettori-5-HT1A|5-HT1A]].
+Il meccanismo d'azione è lo stesso: agonismo parziale GABA-A + modulazione serotoninergica con possibile coinvolgimento [[Recettori 5-HT1A|5-HT1A]].
 
 ## Ftalidi: componente sedativa specifica
 
@@ -69,6 +69,6 @@ Le **ftalidi** (sedanenolide, 3nB) sono composti esclusivi delle Apiaceae e resp
 
 ## Vedi anche
 
-- [[recettori-5-HT1A]]
-- [[matricaria-chamomilla]] — stessa molecola attiva principale (apigenina), usi sovrapposti
-- [[lavandula-angustifolia]] — ansiolitico vegetale con meccanismo 5-HT1A documentato
+- [[Recettori 5-HT1A]]
+- [[Matricaria Chamomilla]] — stessa molecola attiva principale (apigenina), usi sovrapposti
+- [[Lavandula Angustifolia]] — ansiolitico vegetale con meccanismo 5-HT1A documentato

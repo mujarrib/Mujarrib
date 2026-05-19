@@ -21,7 +21,7 @@ Un framework ideologico funziona come un sistema operativo: determina quali proc
 
 Il termine "software di sfruttamento" descrive quella variante specifica in cui il framework è progettato (o si evolve) per *estrarre* — attenzione, compliance, legittimazione, risorse simboliche — da chi lo esegue, senza che questi possa smettere di eseguirlo usando gli strumenti che il framework stesso fornisce.
 
-Vedi [[french-theory-wokismo-scuse]] per un caso concreto: la French Theory come sistema operativo che non può produrre costruzione, solo audit e demolizione.
+Vedi [[French Theory Wokismo Scuse]] per un caso concreto: la French Theory come sistema operativo che non può produrre costruzione, solo audit e demolizione.
 
 ---
 
@@ -94,5 +94,5 @@ Nessuno dei tre è immune: ogni strumento di analisi è esso stesso un software 
 
 ## Riferimenti correlati
 
-- [[french-theory-wokismo-scuse]] — caso concreto di software di sfruttamento ideologico
-- [[problema-del-male-monad-perfezione]] — la questione del male come struttura operativa
+- [[French Theory Wokismo Scuse]] — caso concreto di software di sfruttamento ideologico
+- [[Problema del Male Monad Perfezione]] — la questione del male come struttura operativa
